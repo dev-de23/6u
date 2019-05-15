@@ -1,6 +1,6 @@
 owner=576947377441603584
-prefix=$
-game=play
+prefix=F
+game=Fplay
 stayinchannel=false
 songinstatus=false
-token=NTc3OTk0MDA5Mzk0NTQ0NjQx.XNtJGQ.rSAs_Q00BlXaKQOAMvODRChpDM8
+token=NTc4MjcyNDAzNTQxNzIxMTI2.XNxVtw.C6Ejj1cTQxL_6DIE127bz1OW5OU
